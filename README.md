@@ -4,25 +4,15 @@
 
 
 ### 🖥️ 개발 환경 🖥️
-* Clip Studio
-* Figma, Illustrator
-* Javascript
-* Firebase, Node.js
+![0006](https://github.com/user-attachments/assets/9dee7836-ab7f-4527-affd-003cc17a5dce)
+
 ---
 
 
 
 ### 👩🏻‍💻 Team Members 👩🏻‍💻
-<span style="font-size: 20px; color: green">Design</span>
-* 조 선
+![0002](https://github.com/user-attachments/assets/0233d227-acf4-4f20-838b-497c4949e259)
 
-  
-<span style="font-size: 20px; color: green">FrontEnd</span>
-* 조효림, 조선, 김이안
-
-
-<span style="font-size: 20px; color: green">BackEnd</span>
-* 김예은, 김채연
 ---
 
 
@@ -43,19 +33,7 @@
 ![0001](https://github.com/user-attachments/assets/2ba3a055-24c9-49ff-8747-4e8969b84318)
 
 
-![0002](https://github.com/user-attachments/assets/0233d227-acf4-4f20-838b-497c4949e259)
-
-
-![0003](https://github.com/user-attachments/assets/36463c74-bb8f-4cdf-b9e1-74ec7283b3a7)
-
-
-![0004](https://github.com/user-attachments/assets/463cf0f6-4525-4f8f-9c97-02f25257273b)
-
-
 ![0005](https://github.com/user-attachments/assets/0101ec96-8f45-4956-92aa-9034e91ea687)
-
-
-![0006](https://github.com/user-attachments/assets/9dee7836-ab7f-4527-affd-003cc17a5dce)
 
 
 ![0007](https://github.com/user-attachments/assets/ac6b1200-fba5-4f13-b626-598773cd0184)
@@ -64,13 +42,7 @@
 ![0008](https://github.com/user-attachments/assets/f4410609-f0a6-4c8c-bd4c-5896e63f7e29)
 
 
-![0009](https://github.com/user-attachments/assets/4068d38a-5190-4640-bf5b-515708cd0ae8)
-
-
 ![0010](https://github.com/user-attachments/assets/471cbfda-7c81-4011-82c8-92e014834cb1)
-
-
-![0011](https://github.com/user-attachments/assets/ed2f5a8c-0fc6-43d8-9aa3-8dbe7205131c)
 
 
 ![0012](https://github.com/user-attachments/assets/298556c3-cbe8-4e30-b9f5-ede48f052c9f)
@@ -98,16 +70,6 @@
 
 
 ![0020](https://github.com/user-attachments/assets/ce651468-8483-4a59-99de-8449ef28ca88)
-
-
-![0021](https://github.com/user-attachments/assets/fcd2b5f5-4aee-477b-88a9-ae94af0a479b)
-
-
-![0022](https://github.com/user-attachments/assets/8afcf53a-b699-413a-a092-5583acee6e41)
-
-
-![0023](https://github.com/user-attachments/assets/e1a78351-0043-4b20-9141-944d0b211289)
-
 
 ---
 
